@@ -1,6 +1,7 @@
-# RPG Forge Engine
+<img width="1280" height="640" alt="Git_Repo_Coverart for RPG Forge Game Engine" src="https://github.com/user-attachments/assets/6f2c6a0f-851c-4e9d-a68e-9a1564370f68" />
 
-Welcome to **RPG Forge Engine**, a lightweight text-based RPG engine designed to bring interactive storytelling right to your terminal! 
+
+Welcome to **RPG Forge Engine**, a lightweight text-based RPG Game engine designed to bring interactive storytelling right to your terminal! 
 
 Choose your path, face tough decisions, and experience solo tabletop-style adventures without needing a full group. Stories across various genres will be released continuously over time.
 
